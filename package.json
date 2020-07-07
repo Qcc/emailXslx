@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "node-xlsx": "^0.15.0",
-    "npm": "^6.9.2"
+    "npm": "^6.14.6"
   }
 }
